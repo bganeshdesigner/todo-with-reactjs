@@ -1,0 +1,31 @@
+.card{
+  text-align: center;
+  margin: 50px;
+  margin-left: 40%;
+  margin-right: 40%;
+  width: ;
+  /* border: 15px solid blue; */
+  border-style: dotted;
+}
+.h1{
+  padding-top: 10px;
+  background-color: red;
+}
+.text{
+  margin: 20px;
+  /* padding: 40px; */
+}
+.list{
+  text-align: center;
+}
+.todobtn{
+  margin: 20px;
+}
+.card-tittle{
+  background-color: aquamarine;
+  text-decoration:underline;
+}
+.h3{
+  border-style: solid;
+  border-color: green;
+}
